@@ -1,0 +1,202 @@
+[
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Oct 06, 2021",
+        "price": "25,289.55",
+        "Open": "25,499.90",
+        "High": "25,995.00",
+        "low": "24,915.05",
+        "volume": "13.07K",
+        "chg_per": "0.14%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Oct 05, 2021",
+        "price": "25,254.55",
+        "Open": "25,435.90",
+        "High": "25,769.25",
+        "low": "25,195.20",
+        "volume": "22.64K",
+        "chg_per": "-0.71%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Oct 04, 2021",
+        "price": "25,435.90",
+        "Open": "25,200.00",
+        "High": "25,896.00",
+        "low": "25,001.00",
+        "volume": "14.30K",
+        "chg_per": "2.30%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Oct 01, 2021",
+        "price": "24,863.20",
+        "Open": "24,800.00",
+        "High": "24,900.00",
+        "low": "24,500.00",
+        "volume": "1.34K",
+        "chg_per": "0.12%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 30, 2021",
+        "price": "24,832.50",
+        "Open": "24,720.00",
+        "High": "24,980.05",
+        "low": "24,462.50",
+        "volume": "1.85K",
+        "chg_per": "0.59%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 29, 2021",
+        "price": "24,685.65",
+        "Open": "24,750.00",
+        "High": "24,795.35",
+        "low": "24,500.00",
+        "volume": "1.16K",
+        "chg_per": "-0.25%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 28, 2021",
+        "price": "24,747.60",
+        "Open": "25,190.00",
+        "High": "25,270.00",
+        "low": "24,571.00",
+        "volume": "1.35K",
+        "chg_per": "-1.53%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 27, 2021",
+        "price": "25,131.70",
+        "Open": "25,100.00",
+        "High": "25,349.00",
+        "low": "24,810.95",
+        "volume": "2.91K",
+        "chg_per": "1.33%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 24, 2021",
+        "price": "24,801.15",
+        "Open": "25,500.00",
+        "High": "25,500.00",
+        "low": "24,703.00",
+        "volume": "2.17K",
+        "chg_per": "-0.87%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 23, 2021",
+        "price": "25,019.90",
+        "Open": "24,836.60",
+        "High": "25,570.00",
+        "low": "24,701.25",
+        "volume": "7.56K",
+        "chg_per": "1.20%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 22, 2021",
+        "price": "24,724.35",
+        "Open": "25,250.00",
+        "High": "25,319.50",
+        "low": "24,651.25",
+        "volume": "7.15K",
+        "chg_per": "-1.45%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 21, 2021",
+        "price": "25,088.35",
+        "Open": "25,088.70",
+        "High": "25,300.00",
+        "low": "24,870.00",
+        "volume": "9.01K",
+        "chg_per": "-0.16%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 20, 2021",
+        "price": "25,128.00",
+        "Open": "25,347.00",
+        "High": "25,347.00",
+        "low": "24,567.05",
+        "volume": "3.53K",
+        "chg_per": "-0.43%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 17, 2021",
+        "price": "25,235.90",
+        "Open": "25,300.00",
+        "High": "25,399.80",
+        "low": "24,702.05",
+        "volume": "4.04K",
+        "chg_per": "0.31%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 16, 2021",
+        "price": "25,156.85",
+        "Open": "25,438.00",
+        "High": "25,487.00",
+        "low": "25,100.00",
+        "volume": "19.40K",
+        "chg_per": "-0.71%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 15, 2021",
+        "price": "25,337.85",
+        "Open": "25,999.90",
+        "High": "25,999.90",
+        "low": "25,259.50",
+        "volume": "2.53K",
+        "chg_per": "-1.43%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 14, 2021",
+        "price": "25,705.25",
+        "Open": "25,260.00",
+        "High": "26,000.00",
+        "low": "25,260.00",
+        "volume": "5.96K",
+        "chg_per": "2.20%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 13, 2021",
+        "price": "25,150.90",
+        "Open": "24,218.35",
+        "High": "25,362.95",
+        "low": "24,134.05",
+        "volume": "18.22K",
+        "chg_per": "3.85%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 09, 2021",
+        "price": "24,218.35",
+        "Open": "24,350.05",
+        "High": "24,538.95",
+        "low": "24,001.25",
+        "volume": "1.15K",
+        "chg_per": "-0.51%"
+    },
+    {
+        "company_name": "3M India Ltd. (TMIN)",
+        "date": "Sep 08, 2021",
+        "price": "24,341.75",
+        "Open": "24,500.00",
+        "High": "24,624.95",
+        "low": "24,211.15",
+        "volume": "3.63K",
+        "chg_per": "0.01%"
+    }
+]
