@@ -1,0 +1,648 @@
+[
+    
+    {
+        "url": "https://deliveroo.hk/en/menu/hong-kong/sai-ying-pun/la-paloma-hksyp?utm_medium=affiliate&utm_source=google_maps_link",
+        "restaurant_name": "La Paloma",
+        "rating": "4.6",
+        "total_rating": "228 ratings",
+        "cusine": [
+            "Spanish",
+            "Vegetarian",
+            "Tapas",
+            "Mediterranean",
+            "Western",
+            "Healthy",
+            "Opens at 12:00",
+            "1/F, SoHo 189, 189 Queen's Road West, Sai Ying Pun, Western District,, Hong Kong,",
+            "View map"
+        ],
+        "categories": [
+            "Tapas 西班牙小點",
+            "Spanish Pizza 西班牙薄餅",
+            "El Asador 燒烤",
+            "Paellas 西班牙海鮮飯",
+            "Sweet Treats 甜蜜的誘惑",
+            "Spanish Wine",
+            "Beer By The Bottle",
+            "Soft Drinks"
+        ],
+        "dish_names": [
+            [
+                "Iberian Acorn Fed Ham with Crystal Bread",
+                "Spanish Cheese platter with Catalan tomato bread",
+                "Crispy confit potatoes with spicy paprika sauce",
+                "Sautéed Prawn with Garlic & Chilli",
+                "Flambééd fresh spicy chorizo sausage",
+                "Omelette Potato and Onions",
+                "Omelette Chorizo",
+                "Iberian Ham Croquetas",
+                "Mushroom Croquetas",
+                "Fried Padrón Peppers",
+                "Kale, beetroot, and goat’s cheese salad with orange dressing"
+            ],
+            [
+                "Spanish pizza with spinach, raisins, pine nuts, tetilla cheese, goat’s cheese and honey",
+                "Spanish pizza with confit onions, roast peppers, eggplant, sausage"
+            ],
+            [
+                "Beef short rib with truffle fries and wine reduction",
+                "Crispy slow-roasted suckling pig with Brussels sprouts and mushrooms"
+            ],
+            [
+                "Traditional-style with chicken, rosemary, green beans and artichokes Paella",
+                "Traditional Seafood Paella with Mussels and Prawn"
+            ],
+            [
+                "Basque burnt cheesecake with berry sorbet"
+            ],
+            [
+                "Noche Y Dia",
+                "El Angosto (White Wine)",
+                "Lopez De Haro (Rioja, Red wine)"
+            ],
+            [
+                "Estrella Galicia",
+                "Estrella Galicia 1906 (%6.5)"
+            ],
+            [
+                "Coca Cola",
+                "Coca Cola Zero",
+                "Sprite",
+                "Ginger Ale",
+                "Still Water Cabreiroa 750ml",
+                "Sparkling Water Cabreiroa 750 ml"
+            ]
+        ],
+        "dish_prices": [
+            [
+                "250.00",
+                "180.00",
+                "70.00",
+                "168.00",
+                "98.00",
+                "60.00",
+                "70.00",
+                "98.00",
+                "80.00",
+                "98.00",
+                "110.00"
+            ],
+            [
+                "110.00",
+                "128.00"
+            ],
+            [
+                "310.00",
+                "270.00"
+            ],
+            [
+                "338.00",
+                "338.00"
+            ],
+            [
+                "70.00"
+            ],
+            [
+                "250.00",
+                "250.00",
+                "288.00"
+            ],
+            [
+                "78.00",
+                "88.00"
+            ],
+            [
+                "20.00",
+                "20.00",
+                "20.00",
+                "20.00",
+                "70.00",
+                "70.00"
+            ]
+        ],
+        "dish_urls": [
+            [
+                "//rs-menus-api.roocdn.com/images/95a16fe1-bed2-41ba-a1b2-5c795bb36779/image.jpeg",
+                "//rs-menus-api.roocdn.com/images/e806f7a3-e59d-4347-859d-6defe9fb89b4/image.jpeg",
+                "//rs-menus-api.roocdn.com/images/9fdaad62-c766-4229-82c6-3d00571523e6/image.jpeg",
+                "//rs-menus-api.roocdn.com/images/4e731a1d-fad1-4cae-a1a2-228e70f5dc77/image.jpeg",
+                "none",
+                "//rs-menus-api.roocdn.com/images/766909a2-ed24-4717-b2a5-044bcfbe17c8/image.jpeg",
+                "none",
+                "//rs-menus-api.roocdn.com/images/6b7c0e37-c376-451e-9f18-514090e2475f/image.jpeg",
+                "none",
+                "//rs-menus-api.roocdn.com/images/4bed5bc4-73c6-4062-ad37-fe2c58a97168/image.jpeg",
+                "//rs-menus-api.roocdn.com/images/384bb3a8-7f00-43b2-9896-5a1d59d3e844/image.jpeg"
+            ],
+            [
+                "//rs-menus-api.roocdn.com/images/6732f7cf-a550-4210-a1ff-be9635caf8bc/image.jpeg",
+                "//rs-menus-api.roocdn.com/images/93ea61d4-d98b-477f-9994-13f22af95843/image.jpeg"
+            ],
+            [
+                "//rs-menus-api.roocdn.com/images/b1cf7621-64ad-4702-9794-47e6c5e76dd9/image.jpeg",
+                "//rs-menus-api.roocdn.com/images/731be06b-cca1-4dbe-b8c6-a5a2ce9077ea/image.jpeg"
+            ],
+            [
+                "//rs-menus-api.roocdn.com/images/dab48ea2-f015-4fb7-b615-5b36bb7e8d79/image.jpeg",
+                "//rs-menus-api.roocdn.com/images/3ef1f978-c938-4d83-9791-b9a19626da84/image.jpeg"
+            ],
+            [
+                "//rs-menus-api.roocdn.com/images/28b2ce50-6f16-47e9-a62a-74d11d99a940/image.jpeg"
+            ],
+            [
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "address": "地址： 西營盤皇后大道西189號",
+        "language": "en",
+        "unique_id": "r445172"
+    },
+    {
+        "url": "https://deliveroo.hk/en/menu/hong-kong/sai-ying-pun/coffee-by-zion?utm_medium=affiliate&utm_source=google_maps_link",
+        "restaurant_name": "Coffee by Zion",
+        "rating": "4.5",
+        "total_rating": "438 ratings",
+        "cusine": [
+            "Western",
+            "Coffee",
+            "Breakfast",
+            "Open until 20:00",
+            "Shop 1, G/F, 83 First Street, Sai Ying Pun, Hong Kong,",
+            "View map"
+        ],
+        "categories": [
+            "Classical Breakfest",
+            "Burgers",
+            "Pasta",
+            "Muesli",
+            "Soup / Salad",
+            "Black Coffee",
+            "Milk Coffee",
+            "Non-Coffee",
+            "Seasonal Menu",
+            "Premium Chinese Tea",
+            "Western Tea"
+        ],
+        "dish_names": [
+            [
+                "All Day Breakfast",
+                "Veggie Breakfast",
+                "Smoked Salmon Eggs Benedict with Pumpkin Puree Salad",
+                "Mushroom Eggs Benedict with Pumpkin Puree Salad",
+                "Fish and Chips",
+                "Chicken and Chips"
+            ],
+            [
+                "Alaska Codfish Burger with Fries",
+                "Deep Fried Chicken Burger with Fries",
+                "The Beyond Beef Burger"
+            ],
+            [
+                "Spaghetti Aglio E Olio",
+                "Carbonara",
+                "Mentaiko & Salmon Roe Carbonara"
+            ],
+            [
+                "Fruit Bowl with Milk",
+                "Mixed Berry Super Bowl"
+            ],
+            [
+                "Caprese Salad",
+                "Apple & Chicken Salad",
+                "Smoked Salmon & Fig Salad"
+            ],
+            [
+                "Espresso",
+                "Americano (Hot)",
+                "Americano (Ice)",
+                "Espresso Soda (Ice)",
+                "Cold Brew (Ice)"
+            ],
+            [
+                "Latte (Hot)",
+                "Latte (Ice)",
+                "Flat White",
+                "Cappuccino",
+                "Picclo Latte",
+                "Mocha (Hot)",
+                "Mocha (Ice)"
+            ],
+            [
+                "Chocolate (Belgium) (Hot)",
+                "Chocolate (Belgium) (Ice)",
+                "Matcha Latte (Kyoto) (Hot)",
+                "Matcha Latte (Kyoto) (Ice)",
+                "Chai Tea Latte (Hot)",
+                "Chai Tea Latte (Ice)"
+            ],
+            [
+                "Gothlatte (Hot)",
+                "Gothlatte (Ice)",
+                "Black Sesame Latte (Oat)",
+                "Black Sesame Latte (Soy)",
+                "Sleepy Tonic (Chamomile) (Ice)",
+                "Ooling Tea (Ice)",
+                "Ruby Chocolate (Hot)",
+                "Ruby Chocolate (Ice)"
+            ],
+            [
+                "Jasmine Tea",
+                "Oolong Tea"
+            ],
+            [
+                "Breakfast Tea",
+                "Earl Grey",
+                "Fresh Mint Tea",
+                "Green Tea",
+                "Chamomile"
+            ]
+        ],
+        "dish_prices": [
+            [
+                "118.00",
+                "118.00",
+                "118.00",
+                "112.00",
+                "118.00",
+                "118.00"
+            ],
+            [
+                "138.00",
+                "128.00",
+                "138.00"
+            ],
+            [
+                "112.00",
+                "108.00",
+                "108.00"
+            ],
+            [
+                "90.00",
+                "110.00"
+            ],
+            [
+                "106.00",
+                "108.00",
+                "118.00"
+            ],
+            [
+                "40.00",
+                "43.00",
+                "48.00",
+                "55.00",
+                "60.00"
+            ],
+            [
+                "47.00",
+                "52.00",
+                "47.00",
+                "47.00",
+                "45.00",
+                "55.00",
+                "60.00"
+            ],
+            [
+                "55.00",
+                "60.00",
+                "55.00",
+                "60.00",
+                "52.00",
+                "57.00"
+            ],
+            [
+                "55.00",
+                "60.00",
+                "55.00",
+                "55.00",
+                "55.00",
+                "55.00",
+                "55.00",
+                "60.00"
+            ],
+            [
+                "65.00",
+                "65.00"
+            ],
+            [
+                "50.00",
+                "50.00",
+                "50.00",
+                "50.00",
+                "50.00"
+            ]
+        ],
+        "dish_urls": [
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "address": "地址： 西營盤第一街83號俊景閣1-3號 地舖",
+        "language": "en",
+        "unique_id": "r525933"
+    },
+    {
+        "url": "https://deliveroo.hk/en/menu/hong-kong/sai-ying-pun/bluebird-coffee-hksyp?utm_medium=affiliate&utm_source=google_maps_link",
+        "restaurant_name": "Bluebird Coffee - HKSYP",
+        "rating": "none",
+        "total_rating": "none",
+        "cusine": [
+            "Coffee",
+            "Western",
+            "Bakery",
+            "Healthy",
+            "Cakes",
+            "Open until 21:30",
+            "Shop B, G/F, Lucky Commercial Centre, 103 Des Voeux Road West, Hong Kong,",
+            "View map"
+        ],
+        "categories": [
+            "Yogurts",
+            "Baked Pastry",
+            "Desserts",
+            "Espresso 意式咖啡",
+            "Hand Crafted 手工咖啡",
+            "Non-Coffee 非咖啡飲品",
+            "Specials 咖啡特飲",
+            "Originals 創意咖啡",
+            "Frappe"
+        ],
+        "dish_names": [
+            [
+                "Blueberry Yogurt 藍莓乳酪杯",
+                "Strawberry Yogurt 草莓乳酪杯"
+            ],
+            [
+                "Chocolate Danish 朱古力酥",
+                "Spanish Cheese Lattice 芝士菠菜酥"
+            ],
+            [
+                "Classic Cheesecake 芝士蛋糕"
+            ],
+            [
+                "Latte 鮮奶咖啡",
+                "Cappuccino 泡沫咖啡",
+                "Americano 美式咖啡",
+                "Latte Macchiato 鮮奶瑪奇朵",
+                "Mocha 朱古力咖啡",
+                "Dark Mocha",
+                "Flat White 小白咖啡",
+                "Piccolo 迷你鮮奶咖啡",
+                "Espresso Macchiato 待濃瑪奇朵",
+                "Cortado 告爾多咖啡",
+                "Con Panna 康寶藍咖啡",
+                "Espresso 特濃咖啡"
+            ],
+            [
+                "Hand Drip 手沖咖啡",
+                "Hand Drip (Premium)",
+                "Ice Drip 冰滴咖啡",
+                "Cold Brew 冷泡咖啡"
+            ],
+            [
+                "Chocolate 特濃朱古力",
+                "Matcha Latte 鮮奶抹茶",
+                "Chai Latte 印度香料奶茶",
+                "Tea 茶"
+            ],
+            [
+                "Marshmallow Latte 棉花糖鮮奶咖啡",
+                "Peanut Butter Latte 花生醬鮮奶咖啡",
+                "Nutella Latte 榛子朱古力鮮奶咖啡",
+                "Espresso Tonic 湯力特濃咖啡",
+                "Dirty Chai 印度風味特色拿鐵",
+                "Dirty"
+            ],
+            [
+                "First Light",
+                "Sunset",
+                "Midnight"
+            ],
+            [
+                "Peanut Butter Frappe 花生醬咖啡沙冰",
+                "Nutella Frappe 榛子朱古力沙冰",
+                "Espresso Frappe 咖啡沙冰",
+                "Matcha Frappe 抹茶沙冰",
+                "Caramel Frappe 焦糖沙冰",
+                "Purple Sweet Potato Frappe",
+                "Mango Frappe 芒果沙冰",
+                "Chocolate Chip Frappe 朱古力脆粒咖啡沙冰",
+                "Dark Mocha Frappe",
+                "Strawberry Frappe"
+            ]
+        ],
+        "dish_prices": [
+            [
+                "32.00",
+                "32.00"
+            ],
+            [
+                "26.00",
+                "41.00"
+            ],
+            [
+                "46.00"
+            ],
+            [
+                "42.00",
+                "42.00",
+                "39.00",
+                "42.00",
+                "46.00",
+                "46.00",
+                "39.00",
+                "32.00",
+                "29.00",
+                "29.00",
+                "29.00",
+                "26.00"
+            ],
+            [
+                "46.00",
+                "62.00",
+                "46.00",
+                "46.00"
+            ],
+            [
+                "42.00",
+                "42.00",
+                "42.00",
+                "32.00"
+            ],
+            [
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00",
+                "43.00"
+            ],
+            [
+                "46.00",
+                "46.00",
+                "46.00"
+            ],
+            [
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00",
+                "46.00"
+            ]
+        ],
+        "dish_urls": [
+            [
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none"
+            ],
+            [
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "address": "地址： 樂基商業中心 Shop B, G/f, 103 Des Voeux Rd W, Sai Ying Pun",
+        "language": "en",
+        "unique_id": "r588500"
+    }
+]
